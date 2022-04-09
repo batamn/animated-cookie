@@ -1,3 +1,3 @@
 Cookie card made with GSAP 
 
-![][Animation.gif]
+![](https://github.com/batamn/animated-cookie/blob/main/Animation.gif)
